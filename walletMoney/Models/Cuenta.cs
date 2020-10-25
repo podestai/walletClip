@@ -7,7 +7,7 @@ namespace walletMoney.Models
 {
     public class Cuenta
     {
-        private nombre string;
+        private string nombre;
 
     }
 }
